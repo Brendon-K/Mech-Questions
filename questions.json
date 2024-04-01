@@ -1,0 +1,314 @@
+[
+    {
+        "topic": "AC Cable",
+        "picture": "ac cable.jpg",
+        "questions": [
+            {
+                "question": "What kind of current would this cable likely carry?",
+                "answer": "AC"
+            },
+            {
+                "question": "How much voltage should we expect if we plugged this into something?",
+                "answer": "120VAC"
+            },
+            {
+                "question": "What is the term for the white wire?",
+                "answer": "Neutral"
+            },
+            {
+                "question": "What is the term for the black wire?",
+                "answer": "Live"
+            },
+            {
+                "question": "What is the term for the green wire?",
+                "answer": "Earth Ground"
+            }
+        ]
+    },
+    {
+        "topic": "Transformers",
+        "picture": "transformer.jpg",
+        "questions": [
+            {
+                "question": "What is this part called?",
+                "answer": "Transformer"
+            },
+            {
+                "question": "What is the purpose of this part?",
+                "answer": "Steps up or steps down voltage (in this case it's being used to step down)"
+            },
+            {
+                "question": "Is the input voltage AC or DC?",
+                "answer": "AC"
+            },
+            {
+                "question": "Is the output voltage AC or DC?",
+                "answer": "AC"
+            },
+            {
+                "question": "What do the Blue Wires represent? (Input or Output?)",
+                "answer": "Output"
+            },
+            {
+                "question": "What do the Orange Wires represent? (Input or Output?)",
+                "answer": "Input"
+            },
+            {
+                "question": "What does \"0V\" mean?",
+                "answer": "Neutral"
+            },
+            {
+                "question": "If we were to replace a monitor in a game we might have to deal with having two separate cables.\nOne for the game and then another for the new monitor we installed.\nHow could we solve that problem using this component?",
+                "answer": "Attach monitor power cable to 120V(L) and 0V(N) and put Earth Ground in cabinet"
+            }
+        ]
+    },
+    {
+        "topic": "Power Supplies",
+        "picture": "psu.jpg",
+        "questions": [
+            {
+                "question": "What is this part called?",
+                "answer": "PSU (Power Supply Unit)"
+            },
+            {
+                "question": "What is the purpose of this part?",
+                "answer": "Converts AC to DC"
+            },
+            {
+                "question": "What is the input voltage? (And is that AC or DC?)",
+                "answer": "120VAC"
+            },
+            {
+                "question": "What is the output?",
+                "answer": "12V, 10A"
+            },
+            {
+                "question": "If we had something that required 12V 10A, could we use this?",
+                "answer": "Yes"
+            },
+            {
+                "question": "If we had something that required 5V 10A, could we use this?",
+                "answer": "No"
+            },
+            {
+                "question": "If we had something that required 12V 20A, could we use this?",
+                "answer": "No"
+            },
+            {
+                "question": "If we plugged something in to the 12V output and we were only getting 10V from it, what should we do?",
+                "answer": "Turn up the ADJ dial"
+            },
+            {
+                "question": "What do the yellow wires represent?",
+                "answer": "12V (+V)"
+            },
+            {
+                "question": "What do the thin black wires represent?",
+                "answer": "Ground (-V)"
+            },
+            {
+                "question": "What does the thick black wire represent?",
+                "answer": "Live (L)"
+            },
+            {
+                "question": "What does the green wire represent?",
+                "answer": "Earth Ground"
+            },
+            {
+                "question": "What does the white wire represent?",
+                "answer": "Neutral (N)"
+            }
+        ]
+    },
+    {
+        "topic": "Swiper Harness",
+        "picture": "swiper harness secret.jpg",
+        "questions": [
+            {
+                "question": "How much voltage do you need to power a swiper?",
+                "answer": "12V"
+            },
+            {
+                "question": "How much voltage would we usually expect from a coin up line?",
+                "answer": "5V"
+            },
+            {
+                "question": "We get a new game and we need to wire up the swiper ourselves. \nWe can only find +5VDC and +24VDC. What do we do?",
+                "answer": "Hook up 24V to power the swiper and 5V is probably the coin line. Intercard swipers can be powered on up to 24VDC."
+            },
+            {
+                "question": "What is special about the 4-pin connector on the harness?",
+                "answer": "It's called a \"Ticket Harness\", and it's designed to just plug right into a redemption game's ticket dispenser. <img src=\"img/ticket dispenser.webp\">"
+            },
+            {
+                "question": "Can you name the red wire on the harness?",
+                "answer": "12V (Swiper power)"
+            },
+            {
+                "question": "Can you name the black wire on the harness?",
+                "answer": "Ground for the swiper power"
+            },
+            {
+                "question": "Can you name the purple wire on the harness?",
+                "answer": "Coin Signal"
+            },
+            {
+                "question": "Can you name the grey wire on the harness?",
+                "answer": "Coin Ground"
+            },
+            {
+                "question": "Can you name the blue wire on the harness?",
+                "answer": "Token Monitor (also \"prize monitor\" since we use it for monitoring crane payouts)"
+            },
+            {
+                "question": "Can you name the yellow wire on the harness?",
+                "answer": "Coin Monitor (we have no reason to use this one)"
+            },
+            {
+                "question": "Can you name the white wire on the harness?",
+                "answer": "Ticket Enable"
+            },
+            {
+                "question": "Can you name the green wire on the harness?",
+                "answer": "Ticket Notch"
+            },
+            {
+                "question": "We get a brand new redemption game. Which wires do we need to hook up to the game?",
+                "answer": "The whole ticket harness, Purple, Grey"
+            },
+            {
+                "question": "We get a brand new photobooth. Which wires do we need to hook up to the game?",
+                "answer": "Red, Black, Purple, Grey"
+            },
+            {
+                "question": "We get a brand new crane. Which wires do we need to hook up to the game?",
+                "answer": "Red, Black, Purple, Grey, Blue"
+            }
+        ]
+    },
+    {
+        "topic": "Inputs And Outputs",
+        "picture": "i or o.jpg",
+        "questions": [
+            {
+                "question": "1",
+                "answer": "Buttons/Switches ; Input"
+            },
+            {
+                "question": "2",
+                "answer": "Monitor ; Output"
+            },
+            {
+                "question": "3",
+                "answer": "Solenoids/Coils ; Output"
+            },
+            {
+                "question": "4",
+                "answer": "Absolute Rotary Encoder ; Input"
+            },
+            {
+                "question": "5",
+                "answer": "Potentiometer ; Input"
+            },
+            {
+                "question": "6",
+                "answer": "Addressable LEDs ; Output"
+            },
+            {
+                "question": "7",
+                "answer": "Button Light ; Output"
+            },
+            {
+                "question": "8",
+                "answer": "Button/Switch ; Input"
+            },
+            {
+                "question": "9",
+                "answer": "Speaker ; Output"
+            },
+            {
+                "question": "10",
+                "answer": "Motor w/ Gearbox ; Output"
+            },
+            {
+                "question": "11",
+                "answer": "Solenoid / Coil ; Output"
+            },
+            {
+                "question": "12",
+                "answer": "Motor ; Output"
+            },
+            {
+                "question": "13",
+                "answer": "Motor for Force Feedback ; Output"
+            }
+        ]
+    },
+    {
+        "topic": "Drop Cables",
+        "picture": "drop cable.jpg",
+        "questions": [
+            {
+                "question": "What does \"L2\" mean?",
+                "answer": "Phase 2"
+            },
+            {
+                "question": "Why might that label be important?",
+                "answer": "So we can balance out power that we consume across multiple phases on a rail"
+            },
+            {
+                "question": "If you see a colored sticker instead of \"L1,\" \"L2,\" or \"L3,\" what does that mean?",
+                "answer": "Black = L1, Red = L2, Blue = L3"
+            },
+            {
+                "question": "What if you see multiple colored stickers?",
+                "answer": "Multiple breakers, multiple phases"
+            },
+            {
+                "question": "If you're removing a drop cable, what should you do first after you get up the ladder?",
+                "answer": "Power it off"
+            },
+            {
+                "question": "What should you always do after installing a drop cable? (After you turned it on)",
+                "answer": "Test it with a multimeter"
+            },
+            {
+                "question": "What is the maximum current that we want on a single drop cable?",
+                "answer": "20A"
+            },
+            {
+                "question": "If we get a new game and it doesn't show how many Amps it takes, what other value would we see instead?",
+                "answer": "Watts"
+            },
+            {
+                "question": "Using the other value, how could we figure out the amps?",
+                "answer": "Watts / Voltage"
+            },
+            {
+                "question": "Let's say we have a drop cable with one free outlet, and it currently has 14 amps worth of games plugged into it.\nWe get a new game that takes 850 watts, can we plug it into that drop cable?",
+                "answer": "No.\n14 + (850/120) = 21.08A, but one drop cable should only ever have a maximum of 20A."
+            }
+        ]
+    },
+    {
+        "topic": "Locks",
+        "picture": "lock orientation.jpg",
+        "questions": [
+            {
+                "question": "Which of these locks are in the correct orientation according to Round1 guidelines?",
+                "answer": "A, C, F are all correct."
+            }
+        ]
+    },
+    {
+        "topic": "Tools",
+        "picture": "full tool wall.jpg",
+        "questions": [
+            {
+                "question": "Are there any tools here that you aren't sure what they would be used for?",
+                "answer": " "
+            }
+        ]
+    }
+]
