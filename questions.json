@@ -1,5 +1,19 @@
 [
     {
+        "topic": "Basics",
+        "picture": "round1.svg",
+        "questions": [
+            {
+                "question": "Who do we need to CC when sending an e-mail about ordering parts?",
+                "answer": "AM Tech Support, AM Tech Training, AM Regional Tech, GM"
+            },
+            {
+                "question": "What is the first thing you need to do when you're fixing a game and you need to open it up?",
+                "answer": "Power off the game."
+            }
+        ]
+    },
+    {
         "topic": "AC Cable",
         "picture": "ac cable.jpg",
         "questions": [
