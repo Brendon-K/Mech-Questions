@@ -608,7 +608,7 @@ let questions = [
 
 //* CORS :(
 let questions;
-let questions_promise = $.getJSON('http://raw.githubusercontent.com/Brendon-K/Mech-Questions/main/questions.json', function(data) {
+let questions_promise = $.getJSON('https://raw.githubusercontent.com/Brendon-K/Mech-Questions/main/questions.json', function(data) {
 	questions = data;
 });
 
