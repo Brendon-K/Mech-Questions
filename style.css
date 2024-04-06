@@ -1,0 +1,102 @@
+body {
+	background-color: rgb(130, 130, 130);
+}
+
+div {
+	
+}
+
+img {
+	float: left;
+	max-height: 100vh;
+	max-width: 55%;
+	height: auto;
+	width: auto;
+	padding: 0em 1em 0em .5em;
+}
+
+button {
+	float: left;
+	margin-right: 2em;
+	width: 8em;
+}
+
+a {
+	font-weight: bold;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.tab {
+	display: flex;
+	flex-direction: row;
+}
+
+.tab_links {
+	padding: 1em 1em 1em 1em;
+	width:100%;
+	height: 3em;
+	line-height: 3em;
+	text-align: center;
+}
+
+.tab_text {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+.tab>a:nth-child(odd) {
+	background-color: darkgrey;
+}
+
+.tab>a:nth-child(even) {
+	background-color: lightgrey
+}
+
+.active {
+	background-color: lightblue !important;
+	box-shadow:inset 0em 0em 0em .2em #000;
+}
+
+.topic {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+
+.questions {
+	display: flex;
+	flex-direction: column;
+}
+
+.question_container {
+	padding: 1em 0em 1em 0em;
+}
+
+.question {
+	font-size: 1.5em;
+	width: 50%;
+}
+
+.img_reveal {
+	color: blue;
+	text-decoration: underline;
+}
+
+.question_img, .answer_img {
+	max-width: 40%;
+}
+
+.answer::before {
+	content: "\A";
+	white-space: pre;
+}
+
+.topic_header {
+	font-size: 2em;
+	font-weight: bold;
+}
