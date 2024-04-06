@@ -606,6 +606,8 @@ let questions = [
 ]
 */
 
+console.log("pre promise");
+
 //* CORS :(
 let questions_promise = $.getJSON('', function() {
 	questions = data;
@@ -614,6 +616,7 @@ let questions_promise = $.getJSON('', function() {
 $.when(questions_promise).done(function() {
 //*/
 //$(document).ready(function() {
+	console.log("post promise");
 	const sections = {};
 	for (let i = 0; i < questions.length; ++i) {
 		let topic_name = questions[i].topic.split(" ").join("_").toLowerCase();
