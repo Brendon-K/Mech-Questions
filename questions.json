@@ -391,7 +391,7 @@
             },
             {
                 "question": "If we plugged something in to the 12V output and we were only getting 10V from it, what should we do?",
-                "answer": "We would start by turning up the ADJ dial, which lets us adjust the voltage output of the power supply. If we still weren't able to reach that 12V output after turning up the dial, then the PSU is probably faulty and will need to be replaced."
+                "answer": "We would start by turning up the ADJ dial, which lets us adjust the voltage output of the power supply. If we still weren't able to reach that 12V output after turning up the dial, then the PSU is probably faulty and will need to be replaced. <img class=\"answer_img\" src=\"img/voltage adjuster.jpg\" alt=\"voltage adjuster dial\">"
             },
             {
                 "question": "What do the yellow wires represent?",
