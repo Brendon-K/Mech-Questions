@@ -124,6 +124,30 @@
             {
                 "question": "What is <span class=\"img_reveal\">this tool</span> used for? What is it called? <img class=\"question_img\" style=\"display: none;\" src=\"img/crimper.jpg\">",
                 "answer": "This tool is called a crimper, and it is for crimping wire terminals and connectors such as the ones shown in the photo. <img class=\"answer_img\" style=\"display:block;\" src=\"img/wire_connectors.avif\">"
+            },
+            {
+                "question": "What is the issue with <span class=\"img_reveal\">this crimp</span>? <img class=\"question_img\" style=\"display: none;\" src=\"img/bad crimp 1.jpg\">",
+                "answer": "The conductor is sticking too far out. The crimp should be just covering the conductor, and the insulation should be inside the sleeve right before the crimp."
+            },
+            {
+                "question": "What is the issue with <span class=\"img_reveal\">this crimp</span>? <img class=\"question_img\" style=\"display: none;\" src=\"img/bad crimp 2.jpg\">",
+                "answer": "The wrong part of the crimper was used. The pointy section of the crimper is intended for non-insulated terminals. The open section of the crimper should be used on insulated terminals. While it may look and feel like a nice and secure crimp, crimping a wire like this can damage it, and cause it to break much easier.<img class=\"answer_img\" src=\"img/crimper insulated.jpg\" alt=\"photo of crimper in use for an insulated terminal from Grainger's website\"><img class=\"answer_img\" src=\"img/crimper noninsulated.jpg\" alt=\"photo of crimper in use for a noninsulated terminal from Grainger's website\">"
+            },
+            {
+                "question": "What is the issue with <span class=\"img_reveal\">this crimp</span>? <img class=\"question_img\" style=\"display: none;\" src=\"img/bad crimp 4.jpg\">",
+                "answer": "The wire was pushed too far into the terminal. The conductor should be inside the inner crimp to ensure that the terminal is actually connected to the wire. If you do a continuity test on this connector it <i>might</i> actually return good results as the conductor does extend past the crimp, but the connection would be iffy and could be very inconsistent while in use."
+            },
+            {
+                "question": "What is the issue with <span class=\"img_reveal\">this crimp</span>? <img class=\"question_img\" style=\"display: none;\" src=\"img/bad crimp 3.jpg\">",
+                "answer": "Too much of the wire was stripped, and the insulation isn't secure in the outer crimp. This can eventually cause the connector to break off from the conductor flexing around. Keeping the insulation in the outer crimp adds structure to the connection that allows it to last longer.<img class=\"answer_img\" src=\"img/molex guide.png\" alt=\"Guide on proper molex crimping from an official Molex manual\"><img class=\"answer_img\" src=\"img/good pre crimp.jpg\" alt=\"picture showing the proper amount of wire to strip to prepare for crimping\"><img class=\"answer_img\" src=\"img/good crimp.jpg\" alt=\"picture showing a good finished molex crimp\">"
+            },
+            {
+                "question": "What are <span class=\"img_reveal\">these tools</span> used for? What are they called? (They're the same tool, just different sizes.) <img class=\"question_img\" style=\"display: none;\" src=\"img/molex remover.jpg.jpg\">",
+                "answer": "These are molex removers. They are used to remove molex terminals from their connectors without damaging the terminal or the connector. They work by going over the \"lock tangs\" (the fins that are sticking out of the terminal which hold the terminal in place inside the connector), which lets you push the terminal back through the connector without breaking it. <img class=\"answer_img\" src=\"img/molex remover example 1.jpg\" alt=\"molex remove about to collapse lock tangs\"><img class=\"answer_img\" src=\"img/molex remover example 2.jpg\" alt=\"molex remover covering lock tangs\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this tool</span> used for? What is it called? <img class=\"question_img\" style=\"display: none;\" src=\"img/network crimper.jpg\">",
+                "answer": "This tool is called a data cable crimper, and it is for crimping networking cables. It has an 8-pin slot and a 6-pin slot, though we'll pretty much always be using the 8-pin. It also has a blade that can help you strip a network cable.<img class=\"answer_img\" style=\"display:block;\" src=\"img/rj45 pinout.jpeg\">"
             }
         ]
     },
