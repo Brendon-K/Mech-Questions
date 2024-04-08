@@ -145,6 +145,10 @@
                 "answer": "Konami JP: Red, Konami USA: Orange, SEGA: Blue, Namco: Yellow, Taito: Green, Free: White"
             },
             {
+                "question": "What is <span class=\"img_reveal\">this tool</span> used for?<img class=\"question_img\" style=\"display: none;\" src=\"img/network tester.jpg\" alt=\"photo of a network cable tester\">",
+                "answer": "This is a network cable tester, which is used for testing network cables. One end is removable, which allows you to test a cable even through long distances. For example, you can test one side of a cable at a game or network switch, and test the other side all the way over in the server room.<img class=\"answer_img\" src=\"img/network tester in use.jpg\" alt=\"photo of a network cable tester in use\">"
+            },
+            {
                 "question": "What should you should check if a game is offline?",
                 "answer": "<ul><li>Check if the network cable is plugged in (both sides -- game and network switch)</li><li>Check if the signal light is lit up where the cable is plugged in.</li><li>If no light at all, check if the network switch is powered on.</li><li>Use a network cable tester to see if the network cable is still in good condition.</li><li>Check if the game is currently undergoing maintenance (for certain games like the NESiCAxLive cabinets this is definitely the most likely scenario).</li></ul>"
             }
