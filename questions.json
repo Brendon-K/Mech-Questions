@@ -240,7 +240,7 @@
             },
             {
                 "question": "What does \"LOTO\" mean?",
-                "answer": "<b>L</b>ock <b>O</b>ut <b>T</b>ag <b>O</b>ut. It means to unplug the power cable from the NEXGEN Controller, and put the plug in a locked container so that nobody can power the machine on while it's being worked on."
+                "answer": "<b>L</b>ock <b>O</b>ut <b>T</b>ag <b>O</b>ut. It means to unplug the power cable from the NEXGEN Controller, and put the plug in a locked container so that nobody can power the machine on while it's being worked on. <img class=\"answer_img\" src=\"img/lockout station.jpg\" alt=\"photo of the lockout station\"><img class=\"answer_img\" src=\"img/lockout process 1.jpg\" alt=\"photo of power cable attached to NEXGEN controller\"><img class=\"answer_img\" src=\"img/lockout process 2.jpg\" alt=\"photo of pinsetters fully LOTOd\">"
             },
             {
                 "question": "If you need to get under the table to work on something, what do you need to do before you get under there?",
@@ -260,7 +260,7 @@
             },
             {
                 "question": "What part of the pinsetter pertains to error 75? What's a common cause for this error?",
-                "answer": "Error 75 means the sweep didn't hit the switch that it should be hitting when it's all the way down. This is often caused by a pin being stuck under the sweep."
+                "answer": "Error 75 means the sweep didn't hit the switch that it should be hitting when it's all the way down. This is often caused by a pin being stuck under the sweep.<img class=\"answer_img\" src=\"img/error 75.jpg\" alt=\"photo of a pin stuck under the sweep\">"
             },
             {
                 "question": "What does error \"EJ\" stand for? What is a likely cause for this error?",
