@@ -271,6 +271,18 @@
             {
                 "question": "Should you update clickers after handing out crane prizes?",
                 "answer": "No. Amusement updates the clickers as they stock the cranes, so we don't need to touch them at all."
+            },
+            {
+                "question": "What should you do if a customer wants a different prize from a crane?",
+                "answer": "<ul><li><em>If they already won the prize</em>: No can do. They have to keep the prize they won.</li><li><em>If they haven't won the prize yet (everything is still in the machine)</em>: You can swap prizes as long as everything stays in the same machine and side of the machine. <ul><li>For example, if there is a green plush and a pink plush in UFO8 #4 on the left side, and the green plush is currently out on the playfield, you can swap the green plush on the playfield with a pink plush in the back if the customer asks. However, you <i>can not</i> take a plush from the <i>right</i> side of the machine. It needs to stay on the same side and machine.</li></ul></li></ul>"
+            },
+            {
+                "question": "What is a \"decoy\" in a crane?",
+                "answer": "The decoy helps amusement by allowing them to keep consistent settings while swapping out plushes, so they don't need to adjust the strength of the claw every single time the prizes change.<br>Sometimes, often in Chibi Cranes, the prizes are difficult for the claw to grab, so putting a decoy plush in a chibi crane allows amusement to set up a prize that the customers can actually win.<br><em>Never give the decoy out to a customer.</em>Always check the back of the crane to see what the prize actually is, and hand over the appropriate prize."
+            },
+            {
+                "question": "What can you do if a crane malfunctions while a customer plays it, but you aren't able to quickly fix it so they can try again?",
+                "answer": "We can not offer credit refunds for cranes, so you should always give the customer a free play on a different crane of their choice. Do not send them back to the counter."
             }
         ]
     },
