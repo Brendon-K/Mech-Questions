@@ -595,7 +595,7 @@
         "questions": [
             {
                 "question": "Which of these locks are in the correct orientation according to Round1 guidelines?",
-                "answer": "A, C, F are all correct."
+                "answer": "A, C, F are all correct. Round1 lock guidelines state that locks should only ever point up or right. Generally the direction will be decided based on the hole the lock goes into. If multiple orientations are possible, then the lock should face to the right. In the case that you're using a 2-pole lock, then one pole should face to the right, and the other should face up."
             },
             {
                 "question": "What size sockets would you need for installing/removing a lock?",
