@@ -111,7 +111,7 @@
         "questions": [
             {
                 "question": "What can you do to make sure you don't strip the head of a screw?",
-                "answer": "Make sure you're using the right size. For example a P2 bit might strip a P3 screw head, or if you're using a metric hex bit for an imperial screw you risk stripping it.<br>You also risk stripping a head if you continue screwing it in after it's already secure, which can easily happen if you are using an electric driver with too much power."
+                "answer": "Make sure you're using the right size. For example a P2 bit might strip a P3 screw head, or if you're using a metric hex bit for an imperial screw you risk stripping it.<br>You also risk stripping a head if you continue screwing it in after it's already secure, which can easily happen if you are using an electric driver with too much power.<img class=\"answer_img\" src=\"img/stripped screw head.jpg\" alt=\"a screw with a stripped head\">"
             },
             {
                 "question": "What is <span class=\"img_reveal\">this tool</span> used for? What is it called? <img class=\"question_img\" style=\"display: none;\" src=\"img/snap ring pliers.webp\">",
