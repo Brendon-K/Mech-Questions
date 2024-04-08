@@ -379,11 +379,11 @@
             },
             {
                 "question": "If we had something that required 12V 10A, could we use this?",
-                "answer": "Yes. The game will take the 10A it needs. even though the PSU has 17A available, not all of it necessarily will be supplied when powering whatever it's connected to."
+                "answer": "Yes. The game will take the 10A it needs. Even though the PSU has 17A available, not all of it necessarily will be supplied when powering whatever it's connected to."
             },
             {
                 "question": "If we had something that required 5V 10A, could we use this?",
-                "answer": "No. The voltage is wrong, so it will not be able to power the parts that it needs to power."
+                "answer": "No. The voltage is wrong, so it will providing way too much power to the components it's connected to, which could easily cause them to break."
             },
             {
                 "question": "If we had something that required 12V 20A, could we use this?",
