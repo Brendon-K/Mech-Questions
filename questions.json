@@ -10,7 +10,7 @@
             },
             {
                 "question": "What is the first thing you need to do when you clock in for the day?",
-                "answer": "Toolbox Meeting"
+                "answer": "Do your toolbox meeting, and sign out your keys and staff card as soon as you receive them."
             },
             {
                 "question": "Who do we need to CC when sending an e-mail about ordering parts?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What do the different colors mean on the Risk Spot report?",
-                "answer": "<ul><li><span style=\"background-color: #ffc000;\">Orange</span>: Critical. Turn off the Swiper and try to fix ASAP. Orange means there is a safety risk, so even if you can not fix the issue immediately, you need to make the area safe. For example, if the safety risk is a damaged part that we don't have extras of, remove the part, cover any holes, and order a replacement.</li><li><span style=\"background-color: #ffff00;\">Yellow</span>: High. Turn off the swiper and add to R1NK. Fix soon.</li><li><span style=\"background-color:#fff;\">White</span>: Add to R1NK, but swiper can stay on.</li>"
+                "answer": "<ul><li><span style=\"background-color: #ffc000;\">Orange</span>: Critical. Turn off the Swiper, add to R1NK and try to fix ASAP. Orange means there is a safety risk, so even if you can not fix the issue immediately, you need to make the area safe. For example, if the safety risk is a damaged part that we don't have extras of, remove the part, cover any holes, and order a replacement.</li><li><span style=\"background-color: #ffff00;\">Yellow</span>: High. Turn off the swiper and add to R1NK. Fix soon.</li><li><span style=\"background-color:#fff;\">White</span>: Add to R1NK, but swiper can stay on.</li>"
             },
             {
                 "question": "Can you name the different types of PPE that we use here?",
