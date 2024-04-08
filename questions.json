@@ -371,7 +371,7 @@
             },
             {
                 "question": "What is the input voltage? (And is that AC or DC?)",
-                "answer": "120VAC. This is often coming directly from a ca"
+                "answer": "120VAC. Power supplies are generally going to either be pretty much directly connected from the wall outlet, or on the other end of a transformer, both of which are AC power."
             },
             {
                 "question": "What is the output?",
