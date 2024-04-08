@@ -74,6 +74,10 @@
             {
                 "question": "Why do items need to be stored below 18 inches from the ceiling?",
                 "answer": "To make sure sprinklers can effectively extinguish any fires. Storing items too high can block sprinklers.<img class=\"answer_img\" src=\"img/18 inches.jpg\" alt=\"photo of the tape that says, 'Do Not Stack Above This Line'\">"
+            },
+            {
+                "question": "What is the difference between an impact driver and a non-impact drill?",
+                "answer": "While both tools may look like they operate the same, impact drivers actually use a sort of hammering force in addition to the torque that you're familiar with. This allows it to be used on more heavy duty fasteners as the hammering force can allow the driver to maintain a solid grip with the head of a screw. However, this extra force can come with a cost. Using an impact driver on lighter duty fasteners can cause damage. For example, you should always avoid using impact drivers on plexi because you can risk cracking the plexi from the additional force.<br>While impact drivers may look smaller, and appear to be the weaker of the two options, the impact driver can afford to be so small because it's a more specialized tool. You can see in the comparison pictures that the non-impact drill driver has many settings it can choose between, which requires a larger build.<img class=\"answer_img\" src=\"img/driver compare.jpg\" alt=\"photo of impact driver and cordless drill driver next to each other for comparison\"><img class=\"answer_img\" src=\"img/driver settings.jpg\" alt=\"photo of the top of impact driver and cordless drill showing that the drill is larger because it has additional settings'\">"
             }
         ]
     },
