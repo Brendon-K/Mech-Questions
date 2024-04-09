@@ -631,7 +631,7 @@
             },
             {
                 "question": "What size sockets would you need for installing/removing a lock?",
-                "answer": "22 deep socket for removing the large nut, and a 7/16 inch for the nut that secures the cam. (A 12 works as well for the nut, but can sometimes get stuck due to being very slightly larger.)"
+                "answer": "22mm deep socket for removing the large nut, and a 11mm socket for the nut that secures the cam."
             }
         ]
     },
