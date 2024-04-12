@@ -665,7 +665,7 @@
                 "answer": "Sweep <img class=\"answer_img\" src=\"img/pinsetter overhead sweep.png\" alt=\"photo of sweep location\">"
             },
             {
-                "question": "What are <span class=\"img_reveal\">these parts</span> called? Where are they on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/drive gears.png\" alt=\"photo of drive gears\">",
+                "question": "What are <span class=\"img_reveal\">these parts</span> called? Where are they on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/drive gears.jpg\" alt=\"photo of drive gears\">",
                 "answer": "Drive Gears & Drive Chains <img class=\"answer_img\" src=\"img/pinsetter overhead drive chains and gears.png\" alt=\"photo of drive gears\">"
             },
             {
@@ -673,7 +673,7 @@
                 "answer": "Elevator <img class=\"answer_img\" src=\"img/pinsetter overhead elevator.png\" alt=\"photo of elevator location\">"
             },
             {
-                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/lift and level chain.png\" alt=\"photo of lift and level chain\">",
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/lift and level chain.jpg\" alt=\"photo of lift and level chain\">",
                 "answer": "Lift and Level Chain <img class=\"answer_img\" src=\"img/pinsetter overhead lift and level chain.png\" alt=\"photo of lift and level chain location\">"
             },
             {
