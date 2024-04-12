@@ -234,7 +234,7 @@
         ]
     },
     {
-        "topic": "Pinsetters",
+        "topic": "Pinsetters Basic",
         "picture": "pinsetters.jpg",
         "section": "30-day",
         "questions": [
@@ -632,6 +632,65 @@
             {
                 "question": "What size sockets would you need for installing/removing a lock?",
                 "answer": "22mm deep socket for removing the large nut, and a 11mm socket for the nut that secures the cam."
+            }
+        ]
+    },
+    {
+        "topic": "Pinsetters",
+        "picture": "pinsetter overhead.png",
+        "section": "60-day",
+        "questions": [
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/shark slide.png\" alt=\"photo of shark slide\">",
+                "answer": "Shark Slide <img class=\"answer_img\" src=\"img/pinsetter overhead shark slide.png\" alt=\"photo of shark slide location\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/shark and rear shaft distributor gear.png\" alt=\"photo of shark and rear shaft distributor gear\">",
+                "answer": "Shark Gear and Rear Distributor Shaft Gear <img class=\"answer_img\" src=\"img/pinsetter overhead sharkgear.png\" alt=\"photo of shark gear and rear distributor shaft gear location\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/ball door and locking mechanism.png\" alt=\"photo of ball door and locking mechanism\">",
+                "answer": "Ball Door Locking Mechanism. It is between each pair of pinsetters at the back."
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/deck tube.png\" alt=\"photo of deck tube\">",
+                "answer": "Deck Tube <img class=\"answer_img\" src=\"img/pinsetter overhead decktube.png\" alt=\"photo of deck tube location\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/pin station.png\" alt=\"photo of pin station\">",
+                "answer": "Pin Station <img class=\"answer_img\" src=\"img/pinsetter overhead pinstation.png\" alt=\"photo of pin station location\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/sweep.png\" alt=\"photo of sweep\">",
+                "answer": "Sweep <img class=\"answer_img\" src=\"img/pinsetter overhead sweep.png\" alt=\"photo of sweep location\">"
+            },
+            {
+                "question": "What are <span class=\"img_reveal\">these parts</span> called? Where are they on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/drive gears.png\" alt=\"photo of drive gears\">",
+                "answer": "Drive Gears & Drive Chains <img class=\"answer_img\" src=\"img/pinsetter overhead drive chains and gears.png\" alt=\"photo of drive gears\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/elevator.png\" alt=\"photo of elevator\">",
+                "answer": "Elevator <img class=\"answer_img\" src=\"img/pinsetter overhead elevator.png\" alt=\"photo of elevator location\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/lift and level chain.png\" alt=\"photo of lift and level chain\">",
+                "answer": "Lift and Level Chain <img class=\"answer_img\" src=\"img/pinsetter overhead lift and level chain.png\" alt=\"photo of lift and level chain location\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/table pivot bearing.jpg\" alt=\"photo of table pivot bearing\">",
+                "answer": "Table Pivot Bearing <img class=\"answer_img\" src=\"img/pinsetter overhead table pivot bearing.png\" alt=\"photo of table pivot bearing location\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/bevel gear.png\" alt=\"photo of bevel gear\">",
+                "answer": "Bevel Gear <img class=\"answer_img\" src=\"img/pinsetter overhead bevel gear.png\" alt=\"photo of  bevel gear locations\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it on the pinsetter? <img class=\"question_img\" style=\"display: none;\" src=\"img/plastic bearing.png\" alt=\"photo of plastic bearing\">",
+                "answer": "Plastic Bearing <img class=\"answer_img\" src=\"img/pinsetter overhead plastic bearings.png\" alt=\"photo of plastic bearing locations\">"
+            },
+            {
+                "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it located? <img class=\"question_img\" style=\"display: none;\" src=\"img/pbl.png\" alt=\"photo of pbl\">",
+                "answer": "PBL (Power Ball Lift). It is located on the approach."
             }
         ]
     },
