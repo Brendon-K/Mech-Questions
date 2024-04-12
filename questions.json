@@ -34,7 +34,7 @@
             },
             {
                 "question": "What if we get a part delivery, but it doesn't have everything we ordered on the PO?",
-                "answer": "Sometimes POs show up in multiple separate boxes. If the packing slip says the items are on backorder, then mark the delivery status as \"Backorder\" on the PO and advance the status. If the packing slip does not mention the missing items at all, it probably will show up in a separate box, so you can fill out the PO with the items we have received, and then save it until we get the rest. (You can add a comment to the PO as well to clarify that we didn't just make a mistake filling everything out.)"
+                "answer": "Sometimes POs show up in multiple separate boxes. If the packing slip says the items are on backorder, then mark the delivery status as \"Backorder\" on the PO. If the packing slip does not mention the missing items at all, it probably will show up in a separate box, so you can fill out the PO with the items we have received, and then save it until we get the rest. (You can add a comment to the PO as well to clarify that we didn't just make a mistake filling everything out.)"
             },
             {
                 "question": "What are tech reports and where do we submit them?",
