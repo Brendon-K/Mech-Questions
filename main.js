@@ -63,7 +63,7 @@ $.when(questions_promise).done(function() {
 			// Create Question
 			let question = document.createElement("span");
 			question.className = "question";
-			question.innerHTML = questions[i].questions[q].question;
+			question.innerHTML = 1*q+1 + ". " + questions[i].questions[q].question;
 			$("#" + id_name).append(question);
 			$("#" + id_name).append("<br>");
 
