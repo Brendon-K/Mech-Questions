@@ -205,7 +205,7 @@
             },
             {
                 "question": "How could you fix each of those issues?",
-                "answer": "<ul><li>The game settings could be wrong: <ul><li>(If we have multiple of that cabinet): compare settings with other cabinets that are working and match them.</li><li>(If we only have one of that cabinet): Check Game Directory on Kintone for suggested settings.</li></ul></li><li>The swiper harness could be damaged:<ul><li>Re-do the swiper wiring.</li></ul></li><li>The swiper itself could be damaged:<ul><li>Replace the swiper.</li></ul></li></ul>"
+                "answer": "<ul><li>The game settings could be wrong: <ul><li>(If we have multiple of that cabinet): compare settings with other cabinets that are working and match them.</li><li>(If we only have one of that cabinet): Check Game Directory on Kintone for suggested settings.</li></ul></li><li>The swiper harness could be damaged:<ul><li>Re-do the swiper wiring.</li></ul></li><li>The swiper itself could be damaged:<ul><li>Replace the swiper.</li></ul></li><li>People could be bad at the game, so they just didn't win any tickets:<ul><li>We actually can solve this issue if the game has a mercy tickets option. We could set the game to always give at least a pittance of tickets for every play, regardless of how well someone did. For example, just 1 or 2 tickets. This would allow the game to ticket even when people aren't winning, which would let us know more accurately if a game is ticketing correctly or not.</li></ul></li></ul>"
             },
             {
                 "question": "Before installing a swiper, what should you record so we can finish the swiper installation?",
