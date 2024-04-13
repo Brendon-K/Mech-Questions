@@ -74,10 +74,6 @@
             {
                 "question": "Why do items need to be stored below 18 inches from the ceiling?",
                 "answer": "To make sure sprinklers can effectively extinguish any fires. Storing items too high can block sprinklers.<img class=\"answer_img\" src=\"img/18 inches.jpg\" alt=\"photo of the tape that says, 'Do Not Stack Above This Line'\">"
-            },
-            {
-                "question": "What is the difference between an impact driver and a non-impact drill?",
-                "answer": "While both tools may look like they operate the same, impact drivers actually use a sort of hammering force in addition to the torque that you're familiar with. This allows it to be used on more heavy duty fasteners as the hammering force can allow the driver to maintain a solid grip with the head of a screw. However, this extra force can come with a cost. Using an impact driver on lighter duty fasteners can cause damage. For example, you should always avoid using impact drivers on plexi because you can risk cracking the plexi from the additional force.<br>While impact drivers may look smaller, and appear to be the weaker of the two options, the impact driver can afford to be so small because it's a more specialized tool. You can see in the comparison pictures that the non-impact drill driver has many settings it can choose between, which requires a larger build.<img class=\"answer_img\" src=\"img/driver compare.jpg\" alt=\"photo of impact driver and cordless drill driver next to each other for comparison\"><img class=\"answer_img\" src=\"img/driver settings.jpg\" alt=\"photo of the top of impact driver and cordless drill showing that the drill is larger because it has additional settings'\">"
             }
         ]
     },
@@ -152,6 +148,10 @@
             {
                 "question": "What is <span class=\"img_reveal\">this tool</span> used for? What is it called? <img class=\"question_img\" style=\"display: none;\" src=\"img/network crimper.jpg\">",
                 "answer": "This tool is called a data cable crimper, and it is for crimping networking cables. It has an 8-pin slot and a 6-pin slot, though we'll pretty much always be using the 8-pin. It also has a blade that can help you strip a network cable.<img class=\"answer_img\" style=\"display:block;\" src=\"img/rj45 pinout.jpeg\">"
+            },
+            {
+                "question": "What is the difference between an impact driver and a non-impact drill?",
+                "answer": "While both tools may look like they operate the same, impact drivers actually use a sort of hammering force in addition to the torque that you're familiar with. This allows it to be used on more heavy duty fasteners as the hammering force can allow the driver to maintain a solid grip with the head of a screw. However, this extra force can come with a cost. Using an impact driver on lighter duty fasteners can cause damage. For example, you should always avoid using impact drivers on plexi because you can risk cracking the plexi from the additional force.<br>While impact drivers may look smaller, and appear to be the weaker of the two options, the impact driver can afford to be so small because it's a more specialized tool. You can see in the comparison pictures that the non-impact drill driver has many settings it can choose between, which requires a larger build.<img class=\"answer_img\" src=\"img/driver compare.jpg\" alt=\"photo of impact driver and cordless drill driver next to each other for comparison\"><img class=\"answer_img\" src=\"img/driver settings.jpg\" alt=\"photo of the top of impact driver and cordless drill showing that the drill is larger because it has additional settings'\">"
             }
         ]
     },
