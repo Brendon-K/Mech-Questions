@@ -134,12 +134,12 @@
                 "answer": "The wrong part of the crimper was used. The pointy section of the crimper is intended for non-insulated terminals. The open section of the crimper should be used on insulated terminals. While it may look and feel like a nice and secure crimp, crimping a wire like this can damage it, and cause it to break much easier.<img class=\"answer_img\" src=\"img/crimper insulated.jpg\" alt=\"photo of crimper in use for an insulated terminal from Grainger's website\"><img class=\"answer_img\" src=\"img/crimper noninsulated.jpg\" alt=\"photo of crimper in use for a noninsulated terminal from Grainger's website\">"
             },
             {
-                "question": "What is the issue with <span class=\"img_reveal\">this crimp</span>? <img class=\"question_img\" style=\"display: none;\" src=\"img/bad crimp 4.jpg\">",
-                "answer": "The wire was pushed too far into the terminal. The conductor should be inside the inner crimp to ensure that the terminal is actually connected to the wire. If you do a continuity test on this connector it <i>might</i> actually return good results as the conductor does extend past the crimp, but the connection would be iffy and could be very inconsistent while in use."
-            },
-            {
                 "question": "What is the issue with <span class=\"img_reveal\">this crimp</span>? <img class=\"question_img\" style=\"display: none;\" src=\"img/bad crimp 3.jpg\">",
                 "answer": "Too much of the wire was stripped, and the insulation isn't secure in the outer crimp. This can eventually cause the connector to break off from the conductor flexing around. Keeping the insulation in the outer crimp adds structure to the connection that allows it to last longer.<img class=\"answer_img\" src=\"img/molex guide.png\" alt=\"Guide on proper molex crimping from an official Molex manual\"><img class=\"answer_img\" src=\"img/good pre crimp.jpg\" alt=\"picture showing the proper amount of wire to strip to prepare for crimping\"><img class=\"answer_img\" src=\"img/good crimp.jpg\" alt=\"picture showing a good finished molex crimp\">"
+            },
+            {
+                "question": "What is the issue with <span class=\"img_reveal\">this crimp</span>? <img class=\"question_img\" style=\"display: none;\" src=\"img/bad crimp 4.jpg\">",
+                "answer": "The wire was pushed too far into the terminal. The conductor should be inside the inner crimp to ensure that the terminal is actually connected to the wire. If you do a continuity test on this connector it <i>might</i> actually return good results as the conductor does extend past the crimp, but the connection would be iffy and could be very inconsistent while in use."
             },
             {
                 "question": "What are <span class=\"img_reveal\">these tools</span> used for? What are they called? (They're the same tool, just different sizes.) <img class=\"question_img\" style=\"display: none;\" src=\"img/molex remover.jpg\">",
