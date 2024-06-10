@@ -315,6 +315,10 @@
             {
                 "question": "What can you do if a crane malfunctions while a customer plays it, but you aren't able to quickly fix it so they can try again?",
                 "answer": "We can not offer credit refunds for cranes, so you should always give the customer a free play on a different crane of their choice. Do not send them back to the counter."
+            },
+            {
+                "question": "What is the rare card for each coin pusher? <ul><li>Castlevania</li><li>Smash Stadium</li><li>Gold Railroad</li><li>Avengers Coin Pusher</li><li>Willy Wonka</li><li>Wizard of Oz</li><li>Spongebob Pirates</li><li>Red Zone Rush</li><li>WWE</li></ul>",
+                "answer": "<ul><li><b>Castlevania</b>: #8, #9, and #10</li><li><b>Smash Stadium</b>: A</li><li><b>Gold Railroad</b>: #10</li><li><b>Avengers Coin Pusher</b>: Thanos</li><li><b>Willy Wonka</b>: Wonka (Also Golden Ticket goes in its own hopper)</li><li><b>Wizard of Oz</b>: Ruby Slippers</li><li><b>Spongebob Pirates</b>: Flying Dutchman</li><li><b>Red Zone Rush</b>: Aaron Donald, Patrick Mahomes</li><li><b>WWE</b>: The Rock</li></ul>"
             }
         ]
     },
@@ -691,10 +695,6 @@
             {
                 "question": "What is <span class=\"img_reveal\">this part</span> called? Where is it located? <img class=\"question_img\" style=\"display: none;\" src=\"img/pbl.png\" alt=\"photo of pbl\">",
                 "answer": "PBL (Power Ball Lift). It is located on the approach."
-            },
-            {
-                "question": "What is the rare card for each coin pusher? <ul><li>Castlevania</li><li>Smash Stadium</li><li>Gold Railroad</li><li>Avengers Coin Pusher</li><li>Willy Wonka</li><li>Wizard of Oz</li><li>Spongebob Pirates</li><li>Red Zone Rush</li><li>WWE</li></ul>",
-                "answer": "<ul><li><b>Castlevania</b>: #8, #9, and #10</li><li><b>Smash Stadium</b>: A</li><li><b>Gold Railroad</b>: #10</li><li><b>Avengers Coin Pusher</b>: Thanos</li><li><b>Willy Wonka</b>: Wonka (Also Golden Ticket goes in its own hopper)</li><li><b>Wizard of Oz</b>: Ruby Slippers</li><li><b>Spongebob Pirates</b>: Flying Dutchman</li><li><b>Red Zone Rush</b>: Aaron Donald, Patrick Mahomes</li><li><b>WWE</b>: The Rock</li></ul>"
             }
         ]
     },
