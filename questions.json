@@ -486,7 +486,7 @@
             },
             {
                 "question": "Can you name the blue wire on the harness?",
-                "answer": "Token Monitor (usually referred to as \"prize monitor\" since we use it for monitoring crane payouts, but the swiper harness is labeled \"Token Monitor\")<img class=\"answer_img\" src=\"img/token monitor.jpg\" alt=\"\">"
+                "answer": "Token Monitor<img class=\"answer_img\" src=\"img/token monitor.jpg\" alt=\"\">"
             },
             {
                 "question": "Can you name the yellow wire on the harness?",
@@ -514,7 +514,7 @@
             },
             {
                 "question": "We get a brand new crane. Which wires do we need to hook up to the game?",
-                "answer": "Red, Black, Purple, Grey, Blue. Cranes don't pay out tickets, so we don't need the rest of the ticket harness, but we do use the \"token\" monitor wire to track prize payouts. So we need to connect swiper power, coin lines, as well as the token monitor."
+                "answer": "Red, Black, Purple, Grey, Green. Cranes don't pay out tickets, so we don't need the Ticket Enable wire, but we do use the Ticket Notch wire to track prize payouts. So we need to connect swiper power, coin lines, as well as the ticket notch wire."
             }
         ]
     },
