@@ -14,23 +14,23 @@
             },
             {
                 "question": "Who do we need to CC when sending an e-mail about ordering parts?",
-                "answer": "AM Tech Support, AM Tech Training, AM Regional Tech, GM, AGM"
+                "answer": "AM Tech Support, AM Tech Training, AM Regional Tech, GM, AGM, DM"
             },
             {
                 "question": "After sending in a PO to a Vendor, what should you do?",
-                "answer": "Add a comment on the PO that says you sent it in. That way everyone can see from a glance that it was already sent in and we don't double up on any POs."
+                "answer": "Add a comment on the PO that says you sent it in. That way everyone can see from a glance that it was already sent in and we don't double up on any POs.<br>After that, update Reftab with the PO so that we know that we're waiting on a part."
             },
             {
                 "question": "Where can we find a list of down games?",
                 "answer": "At the AM/Redemption POS. Click \"Functions\", then \"Machines\", then swipe your staff card, then select \"Out of Service.\""
             },
             {
-                "question": "When should you add a game to R1NK? When should you mark something as Critical?",
-                "answer": "Any time we notice an issue with a game, it should be added to R1NK. This includes small things like LEDs that stopped functioning, all the way up to games that are broken or safety risks.<br>You should mark something as \"Critical/Broken\" when the game is on our down games list."
+                "question": "When should you add a game to Reftab? When should you mark something as Critical?",
+                "answer": "Any time we notice an issue with a game, it should be added to Reftab. This includes small things like LEDs that stopped functioning, all the way up to games that are broken or safety risks.<br>You should mark something as \"Critical/Broken\" when the game is on our down games list.<br>When a game is down, you need to fill out the number of down swipers and then fill out the \"Issue(s) Causing Down Status\" section.<br>If no swipers are down, you need to change the status to \"Trouble\" and fill out the appropriate \"Minor Defects\" section.<br>When troubleshooting games, make sure you put any troubleshooting information in the <em>comments</em> so that even when the game is fixed we have a history or what has been done."
             },
             {
                 "question": "What should you do after we get a part delivery?",
-                "answer": "Scan the packing slip, find the PO on Kintone, upload the packing slip to the PO, mark the date and quantity of items received, then move the status of the PO forward."
+                "answer": "Scan the packing slip, find the PO on Kintone, upload the packing slip to the PO, mark the date and quantity of items received, then move the status of the PO forward. (Then install the part.)"
             },
             {
                 "question": "What if we get a part delivery, but it doesn't have everything we ordered on the PO?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What do the different colors mean on the Risk Spot report?",
-                "answer": "<ul><li><span style=\"background-color: #ffc000;\">Orange</span>: Critical. Turn off the Swiper, add to R1NK and try to fix ASAP. Orange means there is a safety risk, so even if you can not fix the issue immediately, you need to make the area safe. For example, if the safety risk is a damaged part that we don't have extras of, remove the part, cover any holes, and order a replacement.</li><li><span style=\"background-color: #ffff00;\">Yellow</span>: High. Turn off the swiper and add to R1NK. Fix soon.</li><li><span style=\"background-color:#fff;\">White</span>: Add to R1NK, but swiper can stay on.</li>"
+                "answer": "<ul><li><span style=\"background-color: #ffc000;\">Orange</span>: Critical. Turn off the Swiper, add to Reftab and try to fix ASAP. Orange means there is a safety risk, so even if you can not fix the issue immediately, you need to make the area safe. For example, if the safety risk is a damaged part that we don't have extras of, remove the part, cover any holes, and order a replacement.</li><li><span style=\"background-color: #ffff00;\">Yellow</span>: High. Turn off the swiper and add to Reftab. Fix soon.</li><li><span style=\"background-color:#fff;\">White</span>: Add to Reftab, but swiper can stay on.</li>"
             },
             {
                 "question": "Can you name the different types of PPE that we use here?",
@@ -271,8 +271,8 @@
                 "answer": "<b>E</b>levator <b>J</b>am. This could be caused by a pin getting stuck in the elevator, preventing it from moving, or it could be caused by a jam in the distributor that is backed up to the elevator.<br><img class=\"answer_img\" src=\"img/ej.jpg\">"
             },
             {
-                "question": "If you go to fix a ball jam, and you need to clear the ball return area behind the lanes, what do you need to do to ensure the accelerator motor stops running so you can safely resolve the issue?",
-                "answer": "Turn <b>both</b> pinsetters off. (Also make sure the sweeps are down first.)"
+                "question": "How can you ensure that the ball return accelerator is stopped before you fix a ball jam behind the lanes?",
+                "answer": "Turn <b>both</b> pinsetters off. (Also make sure the sweeps are down first.)<br>The accelerator only needs one of the two pinsetters running in order to function."
             }
         ]
     },
@@ -462,11 +462,7 @@
             },
             {
                 "question": "How much voltage would we usually expect from a coin up line?",
-                "answer": "5VDC"
-            },
-            {
-                "question": "We get a new game and we need to wire up the swiper ourselves. \nWe can only find +5VDC and +24VDC. What do we do?",
-                "answer": "Hook up 24V to power the swiper and 5V is probably the coin line. Intercard swipers can be powered on up to 24VDC."
+                "answer": "5VDC. Though it can vary depending on the games, 5VDC is the most common."
             },
             {
                 "question": "Can you name the red wire on the harness?",
@@ -486,7 +482,7 @@
             },
             {
                 "question": "Can you name the blue wire on the harness?",
-                "answer": "Token Monitor<img class=\"answer_img\" src=\"img/token monitor.jpg\" alt=\"\">"
+                "answer": "Token Monitor (we don't really use this one)<img class=\"answer_img\" src=\"img/token monitor.jpg\" alt=\"\">"
             },
             {
                 "question": "Can you name the yellow wire on the harness?",
@@ -573,7 +569,7 @@
             },
             {
                 "question": "13",
-                "answer": "Motor for Force Feedback ; Output"
+                "answer": "Motor for Force Feedback ; Output. However, you could argue this assembly is also an input, as it is what's attached to the steering wheel."
             }
         ]
     },
