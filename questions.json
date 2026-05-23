@@ -517,7 +517,7 @@
             },
             {
                 "question": "We get a brand new crane. Which wires do we need to hook up to the game?",
-                "answer": "Red, Black, Purple, Grey, Green. Cranes don't pay out tickets, so we don't need the Ticket Enable wire, but we do use the Ticket Notch wire to track prize payouts. So we need to connect swiper power, coin lines, as well as the ticket notch wire."
+                "answer": "Red, Black, Purple, Grey, Green. Cranes don't pay out tickets, so we don't need the Ticket Enable wire, but we do use the Ticket Notch wire to track prize payouts. So we need to connect swiper power, coin lines, as well as the ticket notch wire. <img src=\"img/swiper_crane_wiring.jpg\">"
             }
         ]
     },
