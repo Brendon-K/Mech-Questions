@@ -15,10 +15,6 @@
             {
                 "question": "Where can we find a list of down games?",
                 "answer": "At the AM/Redemption POS. Click \"Functions\", then \"Machines\", then swipe your staff card, then select \"Out of Service.\""
-            },
-            {
-                "question": "When should you add a game to Reftab? When should you mark something as Critical?",
-                "answer": "Any time we notice an issue with a game, it should be added to Reftab. This includes small things like LEDs that stopped functioning, all the way up to games that are broken or safety risks.<br>You should mark something as \"Critical/Broken\" when the game is on our down games list.<br>When a game is down, you need to fill out the number of down swipers and then fill out the \"Issue(s) Causing Down Status\" section.<br>If no swipers are down, you need to change the status to \"Trouble\" and fill out the appropriate \"Minor Defects\" section.<br>When troubleshooting games, make sure you put any troubleshooting information in the <em>comments</em> so that even when the game is fixed we have a history or what has been done."
             }
         ]
     },
@@ -42,6 +38,10 @@
             {
                 "question": "What if we get a part delivery, but it doesn't have everything we ordered on the PO?",
                 "answer": "Sometimes POs show up in multiple separate boxes. If the packing slip says the items are on backorder, then mark the delivery status as \"Backorder\" on the PO. If the packing slip does not mention the missing items at all, it probably will show up in a separate box, so you can fill out the PO with the items we have received, and then save it until we get the rest. (You can add a comment to the PO as well to clarify that we didn't just make a mistake filling everything out.)"
+            },
+            {
+                "question": "When should you add a game to Reftab? When should you mark something as Critical?",
+                "answer": "Any time we notice an issue with a game, it should be added to Reftab. This includes small things like LEDs that stopped functioning, all the way up to games that are broken or safety risks.<br>You should mark something as \"Critical/Broken\" when the game is on our down games list.<br>When a game is down, you need to fill out the number of down swipers and then fill out the \"Issue(s) Causing Down Status\" section.<br>If no swipers are down, you need to change the status to \"Trouble\" and fill out the appropriate \"Minor Defects\" section.<br>When troubleshooting games, make sure you put any troubleshooting information in the <em>comments</em> so that even when the game is fixed we have a history or what has been done."
             },
             {
                 "question": "What are tech reports and where do we submit them?",
