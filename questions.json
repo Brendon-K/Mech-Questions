@@ -1,26 +1,7 @@
 [
     {
-        "topic": "Reftab",
-        "picture": "reftab-logo-white.webp",
-        "section": "Teach",
-        "questions": [
-            {
-                "question": "Reftab Guide",
-                "answer": "https://roundoneentertainment.kintone.com/k/86/show#record=9747"
-            },
-            {
-                "question": "What goes on Reftab?",
-                "answer": "<em>Any</em> issue with a machine goes on Reftab. This can be anything from a dirty cabinet, an LED that went out, a safety issue, or anything else. If you find something that is wrong with a machine and can't fix it immediately, then it should be logged on Reftab so we don't forget about it."
-            },
-            {
-                "question": "Importance of keeping Reftab updated?",
-                "answer": "Reftab is often the main means of communication between mechs. For example, often the closing mech and the opening mech might not see each other, or if they do, then only for a couple hours at a time. Or if a mech works on something right before their weekend, then it could be two or more days before anyone can communicate with them about their work. Making sure that Reftab is updated with work logs or troubleshooting notes makes sure the next mech that comes in to work on something is fully aware of what's already been done with the cabinet. Not updating Reftab makes it so people have to waste their time unnecessarily re-doing work and troubleshooting that someone else may have already done."
-            },
-        ]
-    },
-    {
         "topic": "Starter",
-        "picture": "Red_Round1logo.png",
+        "picture": "reftab-logo-white.webp",
         "section": "0-day",
         "questions": [
             {
@@ -34,6 +15,18 @@
             {
                 "question": "Where can we find a list of down games?",
                 "answer": "At the AM/Redemption POS. Click \"Functions\", then \"Machines\", then swipe your staff card, then select \"Out of Service.\""
+            },
+            {
+                "question": "Reftab Guide",
+                "answer": "https://roundoneentertainment.kintone.com/k/86/show#record=9747"
+            },
+            {
+                "question": "What goes on Reftab?",
+                "answer": "<em>Any</em> issue with a machine goes on Reftab. This can be anything from a dirty cabinet, an LED that went out, a safety issue, or anything else. If you find something that is wrong with a machine and can't fix it immediately, then it should be logged on Reftab so we don't forget about it."
+            },
+            {
+                "question": "Importance of keeping Reftab updated?",
+                "answer": "Reftab is often the main means of communication between mechs. For example, often the closing mech and the opening mech might not see each other, or if they do, then only for a couple hours at a time. Or if a mech works on something right before their weekend, then it could be two or more days before anyone can communicate with them about their work. Making sure that Reftab is updated with work logs or troubleshooting notes makes sure the next mech that comes in to work on something is fully aware of what's already been done with the cabinet. Not updating Reftab makes it so people have to waste their time unnecessarily re-doing work and troubleshooting that someone else may have already done."
             }
         ]
     },
