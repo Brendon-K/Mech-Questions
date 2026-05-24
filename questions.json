@@ -38,6 +38,17 @@
         ]
     },
     {
+        "topic": "Kintone",
+        "picture": "Red_Round1logo.png",
+        "section": "0-day",
+        "questions": [
+            {
+                "question": "Placeholder",
+                "answer": "Placeholder"
+            }
+        ]
+    },
+    {
         "topic": "Basics",
         "picture": "Red_Round1logo.png",
         "section": "30-day",
