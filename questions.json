@@ -13,7 +13,7 @@
                 "answer": "<em>Any</em> issue with a machine goes on Reftab. This can be anything from a dirty cabinet, an LED that went out, a safety issue, or anything else. If you find something that is wrong with a machine and can't fix it immediately, then it should be logged on Reftab so we don't forget about it."
             },
             {
-                "question:" "Importance of keeping Reftab updated?",
+                "question": "Importance of keeping Reftab updated?",
                 "answer": "<p>Reftab is often the main means of communication between mechs. For example, often the closing mech and the opening mech might not see each other, or if they do, then only for a couple hours at a time. Or if a mech works on something right before their weekend, then it could be two or more days before anyone can communicate with them about their work.</p><p>Making sure that Reftab is updated with work logs or troubleshooting notes makes sure the next mech that comes in to work on something is fully aware of what's already been done with the cabinet.</p><p>Not updating Reftab makes it so people have to waste their time unnecessarily re-doing work and troubleshooting that someone else may have already done.</p>"
             },
         ]
