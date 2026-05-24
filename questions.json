@@ -1,7 +1,7 @@
 [
     {
         "topic": "Starter",
-        "picture": "reftab-logo-white.webp",
+        "picture": "Red_Round1logo.png",
         "section": "0-day",
         "questions": [
             {
@@ -15,7 +15,14 @@
             {
                 "question": "Where can we find a list of down games?",
                 "answer": "At the AM/Redemption POS. Click \"Functions\", then \"Machines\", then swipe your staff card, then select \"Out of Service.\""
-            },
+            }
+        ]
+    },
+    {
+        "topic": "Reftab",
+        "picture": "reftab-logo-white.webp",
+        "section": "0-day",
+        "questions": [
             {
                 "question": "Reftab Guide",
                 "answer": "https://roundoneentertainment.kintone.com/k/86/show#record=9747"
