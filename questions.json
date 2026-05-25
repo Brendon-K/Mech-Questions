@@ -78,10 +78,6 @@
                 "answer": "AM Tech Support, AM Tech Training, AM Regional Tech, GM, AGM, DM"
             },
             {
-                "question": "After sending in a PO to a Vendor, what should you do?",
-                "answer": "Add a comment on the PO that says you sent it in. That way everyone can see from a glance that it was already sent in and we don't double up on any POs.<br>After that, update Reftab with the PO so that we know that we're waiting on a part."
-            },
-            {
                 "question": "What should you do after we get a part delivery?",
                 "answer": "Scan the packing slip, find the PO on Kintone, upload the packing slip to the PO, mark the date and quantity of items received, then move the status of the PO forward. (Then install the part.)"
             },
@@ -227,7 +223,7 @@
             },
             {
                 "question": "What color is associated with each of those networks?",
-                "answer": "Konami JP: Red, Konami USA: Orange, SEGA: Blue, Namco: Yellow, Taito: Green, Free: White"
+                "answer": "Konami: <span style=\"background-color: #FF0000;\">Red</span> / <span style=\"background-color: #FF8000;\">Orange</span>, SEGA: <span style=\"background-color: #0000FF;\">Blue</span>, <span style=\"background-color: #FFFF00;\">Namco</span>: Yellow, <span style=\"background-color: #00FF00;\">Taito</span>: Green, <span style=\"background-color: #FFFFFF;\">Free</span>: White"
             },
             {
                 "question": "What is <span class=\"img_reveal\">this tool</span> used for?<img class=\"question_img\" style=\"display: none;\" src=\"img/network tester.jpg\" alt=\"photo of a network cable tester\">",
@@ -253,19 +249,15 @@
                 "answer": "If harnesses are not properly secured, then you risk damaging them when closing service doors."
             },
             {
-                "question": "What is a non-ticketing report and where can you find it?",
-                "answer": "If we have a redemption game with recorded plays, but no ticket payout, we will get an e-mail letting us know. You can find it on the main store e-mail (not the events laptop) and usually it gets sent off once a week. If there is no e-mail to be found, then that means all our games appear to be ticketing properly."
-            },
-            {
-                "question": "What are some things that could be the issue if a game shows up on our non-ticketing report?",
-                "answer": "<ul><li>The game settings could be wrong.</li><li>The swiper harness could be damaged.</li><li>The swiper itself could be damaged.</li><li>People could be bad at the game, so they just didn't win any tickets.</li></ul>"
+                "question": "If a customer tells us that they played a game but didn't get any tickets, what are some things that could be the issue?",
+                "answer": "<ul><li>Sometimes it takes a few extra minutes for the tickets to show up on the card.</li><li>The game settings could be wrong.</li><li>The swiper harness could be damaged.</li><li>The swiper itself could be damaged.</li><li>People could be bad at the game, so they just didn't win any tickets.</li></ul>"
             },
             {
                 "question": "How could you fix each of those issues?",
-                "answer": "<ul><li>The game settings could be wrong: <ul><li>(If we have multiple of that cabinet): compare settings with other cabinets that are working and match them.</li><li>(If we only have one of that cabinet): Check Game Directory on Kintone for suggested settings.</li></ul></li><li>The swiper harness could be damaged:<ul><li>Re-do the swiper wiring.</li></ul></li><li>The swiper itself could be damaged:<ul><li>Replace the swiper.</li></ul></li><li>People could be bad at the game, so they just didn't win any tickets:<ul><li>We actually can solve this issue if the game has a mercy tickets option. We could set the game to always give at least a pittance of tickets for every play, regardless of how well someone did. For example, just 1 or 2 tickets. This would allow the game to ticket even when people aren't winning, which would let us know more accurately if a game is ticketing correctly or not.</li></ul></li></ul>"
+                "answer": "<ul><li>Ask the customer to check back in after 10 minutes or so to see if the tickets have populated on their card.</li><li>The game settings could be wrong: <ul><li>(If we have multiple of that cabinet): compare settings with other cabinets that are working and match them.</li><li>(If we only have one of that cabinet): Check Game Directory on Kintone for suggested settings.</li></ul></li><li>The swiper harness could be damaged:<ul><li>Re-do the swiper wiring.</li></ul></li><li>The swiper itself could be damaged:<ul><li>Replace the swiper.</li></ul></li><li>People could be bad at the game, so they just didn't win any tickets:<ul><li>We actually can solve this issue if the game has a mercy tickets option. We could set the game to always give at least a pittance of tickets for every play, regardless of how well someone did. For example, just 1 or 2 tickets. This would allow the game to ticket even when people aren't winning, which would let us know more accurately if a game is ticketing correctly or not.</li></ul></li></ul>"
             },
             {
-                "question": "Before installing a swiper, what should you record so we can finish the swiper installation?",
+                "question": "Before installing a swiper, what information do we need so we can finish the swiper installation?",
                 "answer": "The MAC Address on the back of the swiper. We need to update that in back office."
             },
             {
@@ -304,7 +296,7 @@
                 "answer": "<b>L</b>ock <b>O</b>ut <b>T</b>ag <b>O</b>ut. It means to unplug the power cable from the NEXGEN Controller, and put the plug in a locked container so that nobody can power the machine on while it's being worked on. <img class=\"answer_img\" src=\"img/lockout station.jpg\" alt=\"photo of the lockout station\"><img class=\"answer_img\" src=\"img/lockout process 1.jpg\" alt=\"photo of power cable attached to NEXGEN controller\"><img class=\"answer_img\" src=\"img/lockout process 2.jpg\" alt=\"photo of pinsetters fully LOTOd\">"
             },
             {
-                "question": "If you need to get under the table to work on something, what do you need to do before you get under there?",
+                "question": "If you need to get under the table to work on something, what should you do before you get under there?",
                 "answer": "<ul><li>Put the cheese block down in the lane to make sure no balls can get through.</li><li>Put the sweep down because you don't want it to fall down on you while you're working under it.</li><li>Turn the pinsetter off. LOTO</li><li>Put jack stands under the table.</li></ul>"
             },
             {
@@ -350,32 +342,20 @@
         "section": "30-day",
         "questions": [
             {
-                "question": "What should you do after fixing a crane?",
+                "question": "What should you do after fixing a crane that's been off for a while?",
                 "answer": "Let amusement know that it's ready to be turned back on so they can check the settings and make sure it's good for customers to play. Remember to edit the note on the down games list so it's clear that the ball is in amusement's court. (You can do that by turning the swiper back on then turning it off again with an updated note.) Amusement needs to keep a specific payout across all their cranes, and if you turn a crane on too soon you risk that crane not having the correct settings which could either make the payout way too high or way too low. Always communicate with amusement."
             },
             {
-                "question": "Before giving out a prize from a UFO8, what should you do first?",
+                "question": "Before giving out a prize from a UFO, what should you do first?",
                 "answer": "Double check the photo and instructions on the top of the crane. Sometimes customers think they won, but they only did part of what's needed to win a prize."
-            },
-            {
-                "question": "Should you update clickers after handing out crane prizes?",
-                "answer": "No. Amusement updates the clickers as they stock the cranes, so we don't need to touch them at all."
             },
             {
                 "question": "What should you do if a customer wants a different prize from a crane?",
                 "answer": "<ul><li><b>If they already won the prize</b>: No can do. They have to keep the prize they won.</li><li><b>If they haven't won the prize yet (everything is still in the machine)</b>: You can swap prizes as long as everything stays in the same machine and side of the machine. <ul><li>For example, if there is a green plush and a pink plush in UFO8 #4 on the left side, and the green plush is currently out on the playfield, you can swap the green plush on the playfield with a pink plush in the back if the customer asks. However, you <i>can not</i> take a plush from the <i>right</i> side of the machine. It needs to stay on the same side and machine.</li></ul></li></ul><img class=\"answer_img\" src=\"img/diff item diff side.jpg\" alt=\"picture showing similar items in two sides of a UFO8 that are not interchageable if the customer wanted the other type.\"><img class=\"answer_img\" src=\"img/diff item same side.jpg\" alt=\"picture of two sides in a UFO8 in which each side has a variation of similar plush that the customer could choose freely from after they won a prize, as long as it's from the same side\">"
             },
             {
-                "question": "What is a \"decoy\" in a crane?",
-                "answer": "The decoy helps amusement by allowing them to keep consistent settings while swapping out plushes, so they don't need to adjust the strength of the claw every single time the prizes change.<br>Sometimes, often in Chibi Cranes, the prizes are difficult for the claw to grab, so putting a decoy plush in a chibi crane allows amusement to set up a prize that the customers can actually win.<br><b>Never give the decoy out to a customer.</b> Always check the back of the crane to see what the prize actually is, and hand over the appropriate prize. In Gemini and Deca cranes the decoy is usually obvious as it's a giant yellow disc with big text on it. However in chibi cranes, they usually use damaged plush with a label on it as a decoy, so it can be easy to mistake for a prize if you're not paying attention.<img class=\"answer_img\" src=\"img/deca decoy.jpg\" alt=\"photo of a decoy in a deca crane\"><img class=\"answer_img\" src=\"img/chibi decoy.jpg\" alt=\"example of a decoy in a chibi crane\">"
-            },
-            {
                 "question": "What can you do if a crane malfunctions while a customer plays it, but you aren't able to quickly fix it so they can try again?",
-                "answer": "We can not offer credit refunds for cranes, so you should always give the customer a free play on a different crane of their choice. Do not send them back to the counter."
-            },
-            {
-                "question": "What is the rare card for each coin pusher? <ul><li>Castlevania</li><li>Smash Stadium</li><li>Gold Railroad</li><li>Avengers Coin Pusher</li><li>Willy Wonka</li><li>Wizard of Oz</li><li>Spongebob Pirates</li><li>Red Zone Rush</li><li>WWE</li></ul>",
-                "answer": "<ul><li><b>Castlevania</b>: #8, #9, and #10</li><li><b>Smash Stadium</b>: A</li><li><b>Gold Railroad</b>: #10</li><li><b>Avengers Coin Pusher</b>: Thanos</li><li><b>Willy Wonka</b>: Wonka (Also Golden Ticket goes in its own hopper)</li><li><b>Wizard of Oz</b>: Ruby Slippers</li><li><b>Spongebob Pirates</b>: Flying Dutchman</li><li><b>Red Zone Rush</b>: Aaron Donald, Patrick Mahomes</li><li><b>WWE</b>: The Rock</li></ul>"
+                "answer": "We are not supposed to offer credit refunds for cranes, so you should always give the customer a free play on a different crane of their choice. Do not send them back to the counter."
             }
         ]
     },
@@ -759,6 +739,51 @@
             {
                 "question": "Are there any tools here that you aren't sure what they would be used for?",
                 "answer": " "
+            }
+        ]
+    },
+    {
+        "topic": "Basics - Archive",
+        "picture": "",
+        "section": "Archive",
+        "questions": [
+            {
+                "question": "After sending in a PO to a Vendor, what should you do?",
+                "answer": "Add a comment on the PO that says you sent it in. That way everyone can see from a glance that it was already sent in and we don't double up on any POs.<br>After that, update Reftab with the PO so that we know that we're waiting on a part."
+            }
+        ]
+    },
+    {
+        "topic": "Swipers - Archive",
+        "picture": "",
+        "section": "Archive",
+        "questions": [
+            {
+                "question": "What is a non-ticketing report and where can you find it?",
+                "answer": "If we have a redemption game with recorded plays, but no ticket payout, we will get an e-mail letting us know. You can find it on the main store e-mail (not the events laptop) and usually it gets sent off once a week. If there is no e-mail to be found, then that means all our games appear to be ticketing properly."
+            },
+            {
+                "question": "What are some things that could be the issue if a game shows up on our non-ticketing report?",
+                "answer": "<ul><li>The game settings could be wrong.</li><li>The swiper harness could be damaged.</li><li>The swiper itself could be damaged.</li><li>People could be bad at the game, so they just didn't win any tickets.</li></ul>"
+            }
+        ]
+    },
+    {
+        "topic": "Amusement - Archive",
+        "picture": "",
+        "section": "Archive",
+        "questions": [
+            {
+                "question": "Should you update clickers after handing out crane prizes?",
+                "answer": "No. Amusement updates the clickers as they stock the cranes, so we don't need to touch them at all."
+            },
+            {
+                "question": "What is a \"decoy\" in a crane?",
+                "answer": "The decoy helps amusement by allowing them to keep consistent settings while swapping out plushes, so they don't need to adjust the strength of the claw every single time the prizes change.<br>Sometimes, often in Chibi Cranes, the prizes are difficult for the claw to grab, so putting a decoy plush in a chibi crane allows amusement to set up a prize that the customers can actually win.<br><b>Never give the decoy out to a customer.</b> Always check the back of the crane to see what the prize actually is, and hand over the appropriate prize. In Gemini and Deca cranes the decoy is usually obvious as it's a giant yellow disc with big text on it. However in chibi cranes, they usually use damaged plush with a label on it as a decoy, so it can be easy to mistake for a prize if you're not paying attention.<img class=\"answer_img\" src=\"img/deca decoy.jpg\" alt=\"photo of a decoy in a deca crane\"><img class=\"answer_img\" src=\"img/chibi decoy.jpg\" alt=\"example of a decoy in a chibi crane\">"
+            },
+            {
+                "question": "What is the rare card for each coin pusher? <ul><li>Castlevania</li><li>Smash Stadium</li><li>Gold Railroad</li><li>Avengers Coin Pusher</li><li>Willy Wonka</li><li>Wizard of Oz</li><li>Spongebob Pirates</li><li>Red Zone Rush</li><li>WWE</li></ul>",
+                "answer": "<ul><li><b>Castlevania</b>: #8, #9, and #10</li><li><b>Smash Stadium</b>: A</li><li><b>Gold Railroad</b>: #10</li><li><b>Avengers Coin Pusher</b>: Thanos</li><li><b>Willy Wonka</b>: Wonka (Also Golden Ticket goes in its own hopper)</li><li><b>Wizard of Oz</b>: Ruby Slippers</li><li><b>Spongebob Pirates</b>: Flying Dutchman</li><li><b>Red Zone Rush</b>: Aaron Donald, Patrick Mahomes</li><li><b>WWE</b>: The Rock</li></ul>"
             }
         ]
     }
