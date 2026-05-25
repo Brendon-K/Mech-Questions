@@ -69,6 +69,36 @@
         ]
     },
     {
+        "topic": "Risk",
+        "picture": "",
+        "section": "0-day",
+        "questions": [
+            {
+                "question": "What is Risk Spot?",
+                "answer": "Risk Spot is something that we need to finish every single week. It involves going through the game floor and checking the cabinets for any potential hazards. Risk Spot is due every Friday, or before any upcoming busy weekend. So if there happens to be a holiday coming up on Friday, then we want to make sure it's submitted before then. This allows us to most thoroughly check every game."
+            },
+            {
+                "question": "How do we submit Risk Spot?",
+                "answer": "We submit Risk Spot through Reftab. At the top of the page, go to \"Maintenance\", open a report, then fill out the form."
+            },
+            {
+                "question": "What PPE do we use here?",
+                "answer": "<img class=\"answer_img\" src=\"img/ppe.png\" alt=\"PPE Guide for Mechanics\">"
+            }
+        ]
+    },
+    {
+        "topic": "Swipers",
+        "picture": "",
+        "section": "0-day",
+        "questions": [
+            {
+                "question": "What are each of the wires on the swiper harness?",
+                "answer": "<ul><li>Purple - Coin Signal<ul><li>This wire plus the grey wire are the signal wires that let us credit up the game.</li></ul></li><li>Grey - Coin Common</li><li>Red - Swiper power<ul><li>This wire plus the black wire provides power to turn on the swiper.</li></ul></li><li>Black - Swiper ground</li><li>Green - Ticket notch<ul><li>This is the wire that counts the tickets coming out of the machine.</li></ul></li><li>White - Ticket enable<ul><li>This is the wire that <em>enables</em> the machine to pay out tickets.</li></ul></li><li>Blue - Ticket monitor (useless)</li><li>Yellow - Coin monitor (useless)</li></ul>"
+            }
+        ]
+    },
+    {
         "topic": "Basics",
         "picture": "Red_Round1logo.png",
         "section": "30-day",
@@ -494,10 +524,6 @@
         "section": "60-day",
         "questions": [
             {
-                "question": "How much voltage do you need to power a swiper?",
-                "answer": "Usually 12V, but Intercard swipers can be powered with 11-24VDC."
-            },
-            {
                 "question": "How much voltage would we usually expect from a coin up line?",
                 "answer": "5VDC. Though it can vary depending on the games, 5VDC is the most common."
             },
@@ -547,7 +573,7 @@
             },
             {
                 "question": "We get a brand new crane. Which wires do we need to hook up to the game?",
-                "answer": "Red, Black, Purple, Grey, Green. Cranes don't pay out tickets, so we don't need the Ticket Enable wire, but we do use the Ticket Notch wire to track prize payouts. So we need to connect swiper power, coin lines, as well as the ticket notch wire. <img src=\"img/swiper_crane_wiring.jpg\">"
+                "answer": "Red, Black, Purple, Grey, Green. Cranes don't pay out tickets, so we don't need the Ticket Enable wire, but we do use the Ticket Notch wire to track prize payouts. So we need to connect swiper power, coin lines, as well as the ticket notch wire. <img class=\"answer_img\" src=\"img/swiper_crane_wiring.jpg\" alt=\"Swiper harness with green wire pulled out and blue wire plugged in its place.\">"
             }
         ]
     },
