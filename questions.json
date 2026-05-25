@@ -84,6 +84,10 @@
             {
                 "question": "What PPE do we use here?",
                 "answer": "<img class=\"answer_img\" src=\"img/ppe.png\" alt=\"PPE Guide for Mechanics\">"
+            },
+            {
+                "question": "What is an SDS binder?",
+                "answer": "SDS (or MSDS) stands for (Material) Safety Data Sheet. Safety Data Sheets contain useful information about handling chemicals for example, what PPE should be used while handling them, how to store them properly, what to do if you are exposed to the chemical (inhalation, splash in eye, ingest, touches skin, etc.), and what the chemical is made up of. SDS binders (as well as eye wash stations and medical cabinets) can be found in 3 locations at every store: The office, the mech room, and the kitchen."
             }
         ]
     },
@@ -95,6 +99,10 @@
             {
                 "question": "What are each of the wires on the swiper harness?",
                 "answer": "<ul><li>Purple - Coin Signal<ul><li>This wire plus the grey wire are the signal wires that let us credit up the game.</li></ul></li><li>Grey - Coin Common</li><li>Red - Swiper power<ul><li>This wire plus the black wire provides power to turn on the swiper.</li></ul></li><li>Black - Swiper ground</li><li>Green - Ticket notch<ul><li>This is the wire that counts the tickets coming out of the machine.</li></ul></li><li>White - Ticket enable<ul><li>This is the wire that <em>enables</em> the machine to pay out tickets.</li></ul></li><li>Blue - Ticket monitor (useless)</li><li>Yellow - Coin monitor (useless)</li></ul>"
+            },
+            {
+                "question": "What does a swiper installation consist of?",
+                "answer": "When we install a swiper, we first need to know what kind of game we're installing the swiper onto. If it's a game that rewards tickets, then we need to be using the ticket notch and enable line. If it's a crane, we still might be using the ticket notch line. If the game doesn't have any prizes at all, then we may only need power and coin (and their associated ground wires). When we install the swiper, we need to update Back Office with the swiper's MAC ID so it matches up with the game it's installed into. If it's a brand new swiper, we need to call Intercard and have them open up our TFTP server so that the swiper can download Round1's Reader Code so the swiper has the correct information to do its job."
             }
         ]
     },
