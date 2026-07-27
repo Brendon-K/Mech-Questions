@@ -87,7 +87,7 @@
             },
             {
                 "question": "What is an SDS binder?",
-                "answer": "SDS (or MSDS) stands for (Material) Safety Data Sheet. Safety Data Sheets contain useful information about handling chemicals for example, what PPE should be used while handling them, how to store them properly, what to do if you are exposed to the chemical (inhalation, splash in eye, ingest, touches skin, etc.), and what the chemical is made up of. SDS binders (as well as eye wash stations and medical cabinets) can be found in 3 locations at every store: The office, the mech room, and the kitchen."
+                "answer": "SDS (or MSDS) stands for (Material) Safety Data Sheet. Safety Data Sheets contain useful information about handling chemicals for example, what PPE should be used while handling them, how to store them properly, what to do if you are exposed to the chemical (inhalation, splash in eye, ingest, touches skin, etc.), and what the chemical is made up of. SDS binders (as well as eye wash stations and medical cabinets) can be found in 3 locations at every store: The office, the mech room, and the kitchen. <a href=\"https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf\">OSHA MSDS</a>"
             }
         ]
     },
@@ -257,11 +257,11 @@
             },
             {
                 "question": "What are the different networks we have for our games?",
-                "answer": "Konami JP, Konami USA, SEGA, Namco, Taito, and \"Free\"."
+                "answer": "Konami, SEGA, Namco, Taito, and \"Free\"."
             },
             {
                 "question": "What color is associated with each of those networks?",
-                "answer": "Konami: <span style=\"background-color: #FF0000;\">Red</span> / <span style=\"background-color: #FF8000;\">Orange</span>, SEGA: <span style=\"background-color: #0000FF;\">Blue</span>, <span style=\"background-color: #FFFF00;\">Namco</span>: Yellow, <span style=\"background-color: #00FF00;\">Taito</span>: Green, <span style=\"background-color: #FFFFFF;\">Free</span>: White"
+                "answer": "Konami: <span style=\"background-color: #FF0000;\">Red</span> / <span style=\"background-color: #FF8000;\">Orange</span>\nSEGA: <span style=\"background-color: #0000FF;\">Blue</span>\n<span style=\"background-color: #FFFF00;\">Namco</span>: Yellow\n<span style=\"background-color: #00FF00;\">Taito</span>: Green\n<span style=\"background-color: #FFFFFF;\">Free</span>: White"
             },
             {
                 "question": "What is <span class=\"img_reveal\">this tool</span> used for?<img class=\"question_img\" style=\"display: none;\" src=\"img/network tester.jpg\" alt=\"photo of a network cable tester\">",
@@ -287,7 +287,7 @@
                 "answer": "If harnesses are not properly secured, then you risk damaging them when closing service doors."
             },
             {
-                "question": "If a customer tells us that they played a game but didn't get any tickets, what are some things that could be the issue?",
+                "question": "If a customer played a game but didn't get any tickets, what are some things that could be the issue?",
                 "answer": "<ul><li>Sometimes it takes a few extra minutes for the tickets to show up on the card.</li><li>The game settings could be wrong.</li><li>The swiper harness could be damaged.</li><li>The swiper itself could be damaged.</li><li>People could be bad at the game, so they just didn't win any tickets.</li></ul>"
             },
             {
@@ -360,17 +360,6 @@
             {
                 "question": "How can you ensure that the ball return accelerator is stopped before you fix a ball jam behind the lanes?",
                 "answer": "Turn <b>both</b> pinsetters off. (Also make sure the sweeps are down first.)<br>The accelerator only needs one of the two pinsetters running in order to function."
-            }
-        ]
-    },
-    {
-        "topic": "Cleaning",
-        "picture": "round1.svg",
-        "section": "30-day",
-        "questions": [
-            {
-                "question": "Where are all the places you could look for cleaning supplies?",
-                "answer": "<ul><li>Facilities Room</li><li>CO2 Room</li><li>Laundry Room</li></ul>"
             }
         ]
     },
@@ -659,11 +648,7 @@
             },
             {
                 "question": "If you see a colored sticker instead of \"L1,\" \"L2,\" or \"L3,\" what does that mean?",
-                "answer": "Black = L1, Red = L2, Blue = L3<img class=\"answer_img\" src=\"img/ac color code.webp\" alt=\"Diagram showing the color code for AC wiring, which corresponds to the colored stickers on drop cables.\">"
-            },
-            {
-                "question": "What if you see multiple colored stickers?",
-                "answer": "Multiple breakers, multiple phases in one drop cable"
+                "answer": "Blue = L1, Black = L2, Red = L3"
             },
             {
                 "question": "If you're removing a drop cable, what should you do first after you get up the ladder?",
@@ -676,6 +661,10 @@
             {
                 "question": "What is the maximum current that we want on a single drop cable?",
                 "answer": "20A, but ideally we always stay under 20A closer to the 16A range if possible."
+            },
+            {
+                "question": "What is the maximum current that we can handle per phase?",
+                "answer": "100A"
             },
             {
                 "question": "If we get a new game and it doesn't show how many Amps it takes, what other value would we see instead?",
@@ -818,6 +807,32 @@
             {
                 "question": "What is the rare card for each coin pusher? <ul><li>Castlevania</li><li>Smash Stadium</li><li>Gold Railroad</li><li>Avengers Coin Pusher</li><li>Willy Wonka</li><li>Wizard of Oz</li><li>Spongebob Pirates</li><li>Red Zone Rush</li><li>WWE</li></ul>",
                 "answer": "<ul><li><b>Castlevania</b>: #8, #9, and #10</li><li><b>Smash Stadium</b>: A</li><li><b>Gold Railroad</b>: #10</li><li><b>Avengers Coin Pusher</b>: Thanos</li><li><b>Willy Wonka</b>: Wonka (Also Golden Ticket goes in its own hopper)</li><li><b>Wizard of Oz</b>: Ruby Slippers</li><li><b>Spongebob Pirates</b>: Flying Dutchman</li><li><b>Red Zone Rush</b>: Aaron Donald, Patrick Mahomes</li><li><b>WWE</b>: The Rock</li></ul>"
+            }
+        ]
+    },
+    {
+        "topic": "Drop Cables - Archive",
+        "picture": "",
+        "section": "Archive",
+        "questions": [
+            {
+                "question": "If you see a colored sticker instead of \"L1,\" \"L2,\" or \"L3,\" what does that mean?",
+                "answer": "Black = L1, Red = L2, Blue = L3<img class=\"answer_img\" src=\"img/ac color code.webp\" alt=\"Diagram showing the color code for AC wiring, which corresponds to the colored stickers on drop cables.\">"
+            },
+            {
+                "question": "What if you see multiple colored stickers?",
+                "answer": "Multiple breakers, multiple phases in one drop cable"
+            }
+        ]
+    },
+    {
+        "topic": "Cleaning - Archive",
+        "picture": "",
+        "section": "Archive",
+        "questions": [
+            {
+                "question": "Where are all the places you could look for cleaning supplies?",
+                "answer": "<ul><li>Facilities Room</li><li>CO2 Room</li><li>Laundry Room</li></ul>"
             }
         ]
     }
