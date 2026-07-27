@@ -11,6 +11,7 @@ $.when(questions_promise).done(function() {
 
 		// Create Section
 		let section_name = questions[i].section;
+		if (section_name === "Archive") {continue;} // Don't show Archive section on page as Archive is just for recordkeeping purposes.
 		if (Object.keys(sections).includes(section_name)) {
 			sections[section_name].push(i);
 		} else {
