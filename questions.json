@@ -561,6 +561,10 @@
                 "answer": "It's called a \"Ticket Harness\", and it's designed to just plug right into a redemption game's ticket dispenser, but if no such connector already exists inside a game, we can still make one ourselves. <img src=\"img/ticket dispenser.webp\">"
             },
             {
+                "question": "What is a \"UCL\" Harness?",
+                "answer": "UCL stands for \"Universal Card Link\", and it is a 9-pin harness that contains all the wires we need to set up a swiper (and more!). You can find a diagram for UCL harnesses <a href=\"https://f7ce4b2d-a9be-476a-a52a-66e09c05131c.filesusr.com/ugd/5c9cc4_2da185a59b794d8390f0ea62bd17be6f.pdf\">online</a> or inside many manuals. Using these wires, we can just take what we need and quickly set up a swiper without having to hunt down wires. When reading the diagram for a UCL harness, you read them with the wires pointing towards you and the pointy edge facing left. Pin 1 is on the top left, Pin 2 is below that, and so on. <img class=\"answer_img\" src=\"img/UCL.jpg\" alt=\"Photo of a UCL harness inside a game.\">"
+            },
+            {
                 "question": "We get a brand new redemption game. Which wires do we need to hook up to the game?",
                 "answer": "The whole ticket harness, Purple, Grey. We need the ticket harness to power the swiper, and to allow the game to be able to pay out tickets. In addition to that, we of course need to hook up the coin lines so the game will coin up when someone swipes their card."
             },
